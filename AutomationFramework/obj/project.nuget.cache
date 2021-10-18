@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZPPBXdvqB6K4DbuHW1dYfApnvvuVKUWcWDfKfBvtg1WoVLpU8QqRA26nZgoEc2MYEo8aHZFuI5co/q6187dSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Popeliuha\\source\\repos\\AutomationFramework\\AutomationFramework\\AutomationFramework.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\nunit.consolerunner\\3.12.0\\nunit.consolerunner.3.12.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\selenium.support\\4.0.0\\selenium.support.4.0.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\selenium.webdriver\\4.0.0\\selenium.webdriver.4.0.0.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\selenium.webdriver.chromedriver\\94.0.4606.6100\\selenium.webdriver.chromedriver.94.0.4606.6100.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\selenium.webdriver.iedriver\\3.150.1.2\\selenium.webdriver.iedriver.3.150.1.2.nupkg.sha512",
+    "C:\\Users\\Popeliuha\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
